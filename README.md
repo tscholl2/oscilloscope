@@ -1,0 +1,2 @@
+# oscilloscope
+terminal based oscilloscope
